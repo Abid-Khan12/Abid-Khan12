@@ -1,11 +1,9 @@
-<h1 align="center">⚔️ Abid Khan | Frontend Developer</h1>
+<h1 align="center">⚔️ Abid Khan | MERN Developer</h1>
 <h3 align="center">Building fast, scalable, and clean web apps</h3>
 
 <h2>🧠 About Me</h2>
 <p>
-Performance focused frontend developer with strong experience in React and Next.js.  
-Focused on scalable UI architecture, reusable components, and fast user experience.
-</p>
+MERN Stack Developer specializing in TypeScript-based full-stack applications using MongoDB, Express.js, React.js, and Node.js. Experienced in building scalable APIs, reusable UI components with Next.js, Tailwind, and shadcn/ui, and optimizing performance for modern web applications.</p>
 
 <ul>
 <li>📍 Karachi, Pakistan</li>
@@ -19,7 +17,7 @@ Focused on scalable UI architecture, reusable components, and fast user experien
 <p>
 <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,next,shadcn,tanstack,framer"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,next,shadcn,tanstack,framer,express,mongodb"
     />
   </a>
 </p>
