@@ -8,8 +8,8 @@ MERN Stack Developer specializing in TypeScript-based full-stack applications us
 <ul>
 <li>📍 Karachi, Pakistan</li>
 <li>📧 abidshahkhan237@gmail.com</li>
-<li>🌐 <a href="https://portfolio-redesign-ten.vercel.app">Portfolio</a></li>
-<li>💼 <a href="https://www.linkedin.com/in/abid-shah-khan">LinkedIn</a></li>
+<li>🌐 <a href="https://portfolio-redesign-ten.vercel.app" target="_blank">Portfolio</a></li>
+<li>💼 <a href="https://www.linkedin.com/in/abid-shah-khan" target="_blank">LinkedIn</a></li>
 </ul>
 
 <h2>⚔️ Tech Stack</h2>
